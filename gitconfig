@@ -1,0 +1,16 @@
+[user]
+	email = sehail.fillali@gmail.com
+	name = Sehail Fillali
+[color]
+	ui = true
+[alias]
+    co = checkout 
+    ci = commit
+    st = status
+    br = branch
+    hist = log --pretty=format:'%C(yellow)%h %C(green)%ad%Creset | %s%C(red)%d %C(bold blue)[%an]' --graph --date=short
+    logg = log --graph --decorate
+    type = cat-file -t
+    dump = cat-file -p
+[credential]
+	helper = osxkeychain
