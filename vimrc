@@ -41,7 +41,7 @@ Plug 'scrooloose/syntastic'
 Plug 'scrooloose/nerdcommenter'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
-Plug 'xuhdev/vim-latex-live-preview.git', { 'for':'tex' }
+Plug 'xuhdev/vim-latex-live-preview', { 'for':'tex' }
 " Clone
 "Plug 'ying17zi/vim-live-latex-preview'
 
